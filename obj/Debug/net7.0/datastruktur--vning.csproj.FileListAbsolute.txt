@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\bin\Debug\net7.0\datastruktur--vning.exe
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\bin\Debug\net7.0\datastruktur--vning.deps.json
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\bin\Debug\net7.0\datastruktur--vning.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\bin\Debug\net7.0\datastruktur--vning.dll
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\bin\Debug\net7.0\datastruktur--vning.pdb
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.dll
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\refint\datastruktur--vning.dll
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.pdb
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\datastruktur--vning.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\datastruktur--vning\obj\Debug\net7.0\ref\datastruktur--vning.dll
